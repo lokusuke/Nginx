@@ -1,2 +1,2 @@
 # Nginx
-rails_study（https://github.com/lokusuke/rails_study.git） のRailsアプリと連携するようなNginxの設定ファイルを保存
+Nginx-Railsレポジトリ（https://github.com/lokusuke/Nginx-Rails.git） のRailsアプリと連携するようなNginxの設定ファイルを保存
